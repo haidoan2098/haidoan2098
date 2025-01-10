@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Progarmming Languages</h3>
+<h2 align="left">Progarmming Languages</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">My github Status 📊</h3>
+<h2 align="left">My github Status 📊</h2>
 
 ###
 
