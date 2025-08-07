@@ -1,18 +1,27 @@
-<h2 align="left">Hey 👋</h2>
+<h2 align="left">Hi 👋, I'm Phu Hai</h2>
 
-###
+<img align="right" alt="Coding gif" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left">• My name is Phu Hai and I come from Da Nang City, Vietnam.<br>• I'm studying Computer Engineering Technology - Embedded Systems & IOT.<br>• I want to become an Embedded Software Engineer.<br><br>Contact: haidoan2098@gmail.com</p>
+<p align="left">
+  🚩 I'm from Da Nang City, Vietnam.<br>
+  🎓 Studying Computer Engineering Technology – Embedded Systems & IoT.<br>
+  💻 Future Embedded Software Engineer, focusing on low-level systems.<br>
+</p>
 
-###
+---
 
+### 📫 Contact
 
-<h2 align="left">My github Status 📊</h2>
+📧 Email: **haidoan2098@gmail.com**
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidoan2098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 📊 GitHub Stats
 
-###
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=haidoan2098&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=haidoan2098&label=Profile%20views&color=0e75b6&style=flat" alt="haidoan2098" />
+</p>
