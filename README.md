@@ -16,10 +16,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidoan2098&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haidoan2098&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
 
 <p align="left">
