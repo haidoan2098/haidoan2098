@@ -5,7 +5,7 @@
 <p align="left">
   🚩 I'm from Da Nang City, Vietnam.<br>
   🎓 Studying Computer Engineering Technology – Embedded Systems & IoT.<br>
-  💻 Future Embedded Software Engineer, focusing on low-level systems.<br>
+  💻 Embedded Linux Engineer.<br>
 </p>
 
 ---
