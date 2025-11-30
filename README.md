@@ -11,21 +11,18 @@
 ---
 
 ### 📫 Contact 
-- 📧 Email: <strong>haidoan2098@gmail.com</strong>  
+- 📧 Email: <a href="mailto:haidoan2098@gmail.com"><strong>haidoan2098@gmail.com</strong></a>  
 
 ---
 
-### 📫 Social
-- ▶️ YouTube: [@haidoan2098-EmbLix](https://www.youtube.com/@haidoan2098-EmbLix)  
-- 🎵 TikTok: [@haidoan2098](https://www.tiktok.com/@haidoan2098?_r=1&_t=ZS-91pi38Zm81v)
-  
+### 🌐 Social
+[![YouTube](https://img.shields.io/badge/YouTube-@haidoan2098--EmbLix-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@haidoan2098-EmbLix)
+
+[![TikTok](https://img.shields.io/badge/TikTok-@haidoan2098-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@haidoan2098?_r=1&_t=ZS-91pi38Zm81v)
+
+
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidoan2098&show_icons=true&theme=dracula" alt="GitHub stats" />
-</p>
+### 💡 Insight
+**"Hiểu hệ thống từ từng dòng code." – "Understand systems, one line of code at a time."**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=haidoan2098&label=Profile%20views&color=0e75b6&style=flat" alt="haidoan2098" />
-</p>
