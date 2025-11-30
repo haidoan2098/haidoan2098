@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=haidoan2098&label=Profile%20views&color=0e75b6&style=flat" alt="haidoan2098  />
-</div>
-
-###
-
 <h1 align="center">👩‍💻  Hi 👋, I'm Phu Hai</h1>
 
 ###
@@ -40,7 +34,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+###
+
 <h3 align="left">📫 Contact</h3>
 
 <p align="left">📧 Email: <b>haidoan2098@gmail.com</b></p>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=haidoan2098&label=Profile%20views&color=0e75b6&style=flat" alt="haidoan2098  />
+</div>
+
+###
+
 
