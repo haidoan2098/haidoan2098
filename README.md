@@ -1,28 +1,46 @@
-<h2 align="left">Hi 👋, I'm Phu Hai</h2>
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+</div>
 
-<img align="right" alt="Coding gif" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+###
 
-<p align="left">
-  🚩 From Da Nang, Vietnam<br>
-  🎓 Studying Computer Engineering Technology – Embedded Systems & IoT<br>
-  💻 Embedded Linux Engineer | C/C++ Enthusiast<br>
-</p>  
+<div align="center">
+  <a href="https://www.facebook.com/haidoan2098EmbLix" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/h%E1%BA%A3i-%C4%91o%C3%A0n-302627313/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@haidoan2098-EmbLix/shorts" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
 
----
+###
 
-### 📫 Contact 
-- 📧 Email: <a href="mailto:haidoan2098@gmail.com"><strong>haidoan2098@gmail.com</strong></a>  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=haidoan2098&label=Profile%20views&color=0e75b6&style=flat" alt="haidoan2098  />
+</div>
 
----
+###
 
-### 🌐 Social
-[![YouTube](https://img.shields.io/badge/YouTube-@haidoan2098--EmbLix-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@haidoan2098-EmbLix)
+<h1 align="center">👩‍💻  Hi 👋, I'm Phu Hai</h1>
 
-[![TikTok](https://img.shields.io/badge/TikTok-@haidoan2098-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@haidoan2098?_r=1&_t=ZS-91pi38Zm81v)
+###
 
+<p align="left">🚩 From Da Nang, Vietnam<br>🎓 Studying Computer Engineering Technology – Embedded Systems & IoT<br>💻 Embedded Linux Engineer | C/C++ Enthusiast</p>
 
----
+###
 
-### 💡 Insight
-**"Hiểu hệ thống từ từng dòng code." – "Understand systems, one line of code at a time."**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+<h3 align="left">📫 Contact</h3>
+
+<p align="left">📧 Email: <b>haidoan2098@gmail.com</b></p>
 
