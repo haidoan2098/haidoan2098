@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/h%E1%BA%A3i-%C4%91o%C3%A0n-302627313/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@haidoan2098-EmbLix/shorts" target="_blank">
+  <a href="https://youtube.com/@haidoan2098-emblix?si=m-kCFAhkZ6pqILdM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 </div>
