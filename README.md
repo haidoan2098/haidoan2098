@@ -4,6 +4,8 @@
 
 ###
 
+<!--
+
 <div align="center">
   <a href="https://www.facebook.com/haidoan2098EmbLix" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
@@ -17,7 +19,7 @@
 </div>
 
 ###
-
+-->
 <h3 align="left">👩‍💻  Hi 👋, I'm Phu Hai</h3>
 
 <p align="left">🚩 From Da Nang, Vietnam<br>🎓 Studying Computer Engineering Technology – Embedded Systems & IoT<br>💻 Embedded Linux Engineer | C/C++ Enthusiast</p>
