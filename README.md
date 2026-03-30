@@ -22,7 +22,7 @@
 -->
 <h3 align="left">👩‍💻  Hi 👋, I'm Phu Hai</h3>
 
-<p align="left">🚩 From Da Nang, Vietnam<br>🎓 Studying Computer Engineering Technology – Embedded Systems & IoT<br>💻 Embedded Linux Engineer | C/C++ Enthusiast</p>
+<p align="left">🚩 From Da Nang, Vietnam<br>🎓 Computer Engineering Technology <br>💻 Embedded Linux Engineer | Embedded OS </p>
 
 ###
 
